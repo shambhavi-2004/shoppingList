@@ -61,7 +61,8 @@ add this repo as (remote repo) to push to
 //first put that code to staging area then commit and then push
 git status
 git add .
-git commit -m ‘added readme'
+git commit -m 'readded readme'
+git push
 
 //readme.md
 // Markdown is a lightweight markup language that allows you to create formatted text using a plain-text editor.
